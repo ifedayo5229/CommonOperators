@@ -44,6 +44,11 @@ namespace CommonOperators
         int a = 40;
        a--;
       Console.WriteLine(a);
+
+      
+        int a = 40;
+       a++;
+      Console.WriteLine(a);
         }
     }
 }
