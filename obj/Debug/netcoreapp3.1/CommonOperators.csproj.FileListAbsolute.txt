@@ -1,0 +1,13 @@
+C:\Users\IFEDAYO\Desktop\C# Classes\CommonOperators\obj\Debug\netcoreapp3.1\CommonOperators.csprojAssemblyReference.cache
+C:\Users\IFEDAYO\Desktop\C# Classes\CommonOperators\obj\Debug\netcoreapp3.1\CommonOperators.AssemblyInfoInputs.cache
+C:\Users\IFEDAYO\Desktop\C# Classes\CommonOperators\obj\Debug\netcoreapp3.1\CommonOperators.AssemblyInfo.cs
+C:\Users\IFEDAYO\Desktop\C# Classes\CommonOperators\obj\Debug\netcoreapp3.1\CommonOperators.csproj.CoreCompileInputs.cache
+C:\Users\IFEDAYO\Desktop\C# Classes\CommonOperators\bin\Debug\netcoreapp3.1\CommonOperators.exe
+C:\Users\IFEDAYO\Desktop\C# Classes\CommonOperators\bin\Debug\netcoreapp3.1\CommonOperators.deps.json
+C:\Users\IFEDAYO\Desktop\C# Classes\CommonOperators\bin\Debug\netcoreapp3.1\CommonOperators.runtimeconfig.json
+C:\Users\IFEDAYO\Desktop\C# Classes\CommonOperators\bin\Debug\netcoreapp3.1\CommonOperators.runtimeconfig.dev.json
+C:\Users\IFEDAYO\Desktop\C# Classes\CommonOperators\bin\Debug\netcoreapp3.1\CommonOperators.dll
+C:\Users\IFEDAYO\Desktop\C# Classes\CommonOperators\bin\Debug\netcoreapp3.1\CommonOperators.pdb
+C:\Users\IFEDAYO\Desktop\C# Classes\CommonOperators\obj\Debug\netcoreapp3.1\CommonOperators.dll
+C:\Users\IFEDAYO\Desktop\C# Classes\CommonOperators\obj\Debug\netcoreapp3.1\CommonOperators.pdb
+C:\Users\IFEDAYO\Desktop\C# Classes\CommonOperators\obj\Debug\netcoreapp3.1\CommonOperators.genruntimeconfig.cache
